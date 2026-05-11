@@ -101,4 +101,4 @@ MIT License — 详见 [LICENSE](LICENSE)
 
 ## 🙏 致谢
 
-底层框架来自 [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)（现 [CowAgent](https://github.com/zhayujie/CowAgent)），感谢原作者的开源贡献。
+底层框架来自 [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)（现 [CowAgent](https://github.com/zhayujie/CowAgent)），感谢原作者的开源贡献。另外，整体执行过程参照了https://www.cnblogs.com/vvencore/p/19714923#commentform先生的内容，使用豆包进行全程指导。使用Deepseek-TUI进行github上传，感谢大佬开源！
